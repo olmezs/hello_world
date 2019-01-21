@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-$\alpha$  $\beta$
+$$\alpha$$  $$\beta$$
 
 You can use the [editor on GitHub](https://github.com/olmezs/hello_world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
